@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#229954</color>
+    <color name="colorPrimaryDark">#48C9B0 </color>
+    <color name="colorAccent">#05af9b</color>
+
+    <color name="color_one">#283593 </color>
+    <color name="color_white">#0B5345</color>
+    <color name="color_two">#E3E0E0</color>
+
+    <color name="cases">#FFA726</color>
+    <color name="recovered">#66BB6A</color>
+    <color name="deaths">#EF5350</color>
+    <color name="active">#29B6F6</color>
+
+
+    <color name="I_AM">#66FF33 </color>
+    <color name="RATUL_DAS">#FFFF33 </color>
+    <color name="AND_I_AM_A_NOVICE">#0000FF</color>
+    <color name="SOFTWARE_DEVELOPER">#FF0033</color>
+
+
+    <color name="IF_YOU_LIKE_MY_WORK">#CC0066  </color>
+    <color name="PLEASE_HIRE_ME">#66BB6A</color>
+    <color name="MAY_GOD_BLESS_YOU">#E64A19</color>
+    <color name="THANKS">#212121 </color>
+
+</resources>
